@@ -17,6 +17,7 @@ The recommended way to install composer packages is:
 ```
 composer require chcnet/admin-lte
 ```
+## CakePHP usage
 To start using this theme, set it up by adding into your src/Controller/AppController.php:
 
 ```
@@ -30,7 +31,7 @@ class AppController extends Controller
 ...
 }
 ```
-Then prepre a proper default.php in AdminLTE Stype in templates/layout/. You can use the default Demo Layout as starting point for your website layout: https://adminlte.io/themes/AdminLTE/index2.html.
+Then prepre a proper default.php in AdminLTE style in templates/layout/. Please follow the default Demo Layout as starting point for your website layout: https://adminlte.io/themes/AdminLTE/index2.html.
 
 Do not forget to search and replace all occurrences of "../../" with  "/AdminLTE/" (mention the closing bracket).
 
@@ -38,4 +39,3 @@ That should get you up and running :-)
 
 Happy coding. 
 
-# AdminLTE
