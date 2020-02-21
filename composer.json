@@ -1,5 +1,5 @@
 {
-    "name": "chcnet/AdminLTE",
+    "name": "chcnet/admin-lte",
     "description": "AdminLTE 2.0 Theme plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
