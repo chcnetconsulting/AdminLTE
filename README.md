@@ -1,6 +1,7 @@
 # AdminLTE plugin for CakePHP
 
 AdminLTE 2 Theme for CakePHP 4.x
+## Installation
 
 This is a Theme Plugin for CakePHP 4.x and higher. It contains the complete and unaltered AdminLTE Package
 from https://adminlte.io. Please refer to https://adminlte.io/themes/AdminLTE/documentation/index.html for 
@@ -8,7 +9,7 @@ Documentation, how to use this theme. The Package contains Bootstrap 3, jQiery 1
 mentioned there. So it is not necessary to include neither bootstrap nor jquery for proper function of this 
 composer package.
 
-## Installation
+
 You can install this plugin into your CakePHP application using [composer](https://getcomposer.org).
 
 The recommended way to install composer packages is:
