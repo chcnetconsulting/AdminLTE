@@ -1,6 +1,6 @@
 # AdminLTE plugin for CakePHP
 
-AdminLTE 2 Theme for CakePHP 4.x
+AdminLTE 3 Theme for CakePHP 4.x
 ## Installation
 
 This is a Theme Plugin for CakePHP 4.x and higher. It contains the complete and unaltered AdminLTE Package
