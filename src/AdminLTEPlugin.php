@@ -11,7 +11,7 @@ use Cake\Routing\RouteBuilder;
 /**
  * Plugin for AdminLTE
  */
-class Plugin extends BasePlugin
+class AdminLTEPlugin extends BasePlugin
 {
     /**
      * Load all the plugin configuration and bootstrap logic.
